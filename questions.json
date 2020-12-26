@@ -1,0 +1,41 @@
+[
+{
+    "question": "From which tag descriptive list starts ?",
+    "choice1": "<LL>",
+    "choice2": "<DD>",
+    "choice3": "<DL>",
+    "choice4": "<DS>",
+    "answer": 3
+},
+
+{
+    "question":"Which Is Not A Property Of Attribute Behaviour Of <Marquee> Tag?",
+    "choice1":"Blur",
+    "choice2":"Scroll",
+    "choice3":"Alternate",
+    "choice4":"Slide",
+    "answer":3
+},
+
+
+    {
+        "question":"Correct HTML Tag For The Largest Heading Is",
+        "choice1":"<h6>",
+        "choice2":"<heading>",
+        "choice3":"<h1>",
+        "choice4":"<head>",
+        "answer":3
+    },
+
+
+    {
+        "question": "A Much Better Approach To Establish The Base URL Is To Use The ______ Element",
+       
+        "choice1":"BODY",
+        "choice2":"BASE",
+        "choice3":"HEAD",
+        "choice4":"None Of The Above",
+       "answer":2
+        
+    }
+]
